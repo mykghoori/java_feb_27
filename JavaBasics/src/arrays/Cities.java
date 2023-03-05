@@ -11,7 +11,7 @@ public class Cities {
 		cities[0][1] = "New York";
 		
 		System.out.println(cities[1][2]);
-		//Today is Wednesday Jan
+		//Today is Wednesday Jigar
 	}
 
 }
